@@ -1,0 +1,14 @@
+body {
+	font-size: 16px
+	color: #000000;
+	background-color: ##c2aeb6;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+	background-color: #5098eb;
+	border-radius: : 0;
+	border: 0;
+	text-align: left;
+}
